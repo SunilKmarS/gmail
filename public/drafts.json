@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "sender": "example@example.com",
+      "subject": "Subject of email 1",
+      "date": "2024-05-06",
+      "time": "12:68",
+      "read": true,
+      "starred":true,
+      "body": "Body of email 1"
+    },
+    {
+      "id": 2,
+      "sender": "test@test.com",
+      "subject": "Subject of email 2",
+      "date": "2024-05-05",
+      "time": "12:68",
+      "read":false,
+      "starred":false,
+      "body": "Body of email 2"
+    },
+    
+    {
+      "id": 3,
+      "sender": "test@test.com",
+      "subject": "Subject of email 2",
+      "date": "2024-05-05",
+      "time": "12:68",
+      "read":false,
+      "starred":false,
+      "body": "Body of email 2"
+    },
+    
+    {
+      "id": 4,
+      "sender": "test@test.com",
+      "subject": "Subject of email 2",
+      "date": "2024-05-05",
+      "time": "12:68",
+      "read":false,
+      "starred":false,
+      "body": "Body of email 2"
+    },
+    
+    {
+      "id": 5,
+      "sender": "test@test.com",
+      "subject": "Subject of email 2",
+      "date": "2024-05-05",
+      "time": "12:68",
+      "read":false,
+      "starred":false,
+      "body": "Body of email 2"
+    },
+    
+    {
+      "id": 5,
+      "sender": "test@test.com",
+      "subject": "Subject of email 2",
+      "date": "2024-05-05",
+      "time": "12:68",
+      "read":false,
+      "starred":false,
+      "body": "Body of email 2"
+    }
+]
